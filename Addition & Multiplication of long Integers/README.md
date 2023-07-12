@@ -14,15 +14,11 @@ The main program prompts the user to enter two long integers and then calls the 
 
 ## Usage
 
-> Compile the code using a C compiler.
-> 
-> Run the executable.
-> 
-> Enter the first long integer when prompted.
-> 
-> Enter the second long integer when prompted.
-> 
-> The program will display the addition result and the multiplication result.
+- Compile the code using a C compiler.
+- Run the executable. 
+- Enter the first long integer when prompted. 
+- Enter the second long integer when prompted. 
+- The program will display the addition result and the multiplication result.
 
 
 ## Example
